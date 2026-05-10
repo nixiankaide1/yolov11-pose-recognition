@@ -1,0 +1,6 @@
+{
+  "settings_version": "1.0.0",
+  "datasets_dir": "./my_dataset",
+  "weights_dir": "./weights",
+  "runs_dir": "./runs"
+}

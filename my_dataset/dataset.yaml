@@ -1,0 +1,11 @@
+path: D:\YOLOV11\my_dataset
+train: images/train
+val: images/val
+nc: 6
+names:
+- 会
+- 华
+- 冰
+- 建
+- 册
+- 习
