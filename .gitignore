@@ -177,5 +177,8 @@ FFmpeg/
 # Claude Code local settings
 .claude/
 
+# Exported results (videos, data)
+exports/
+
 # Cache files
 *.cache
